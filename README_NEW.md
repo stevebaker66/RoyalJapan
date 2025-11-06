@@ -1,6 +1,3 @@
-
-> # Online Store with Cryptocurrency Integration
-
 > ## Getting started
 > 
 > The project is a monorepo structure with a `frontend` (React/Next.js) and a `backend` (Django) directory.
